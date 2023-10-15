@@ -1,6 +1,4 @@
 IDA Institute Digital Assets
-![image](https://github.com/danpele/IDA/assets/26813254/066d4c5b-4c80-4ca0-897e-8bc0f46c5267)
-
-
+![image](https://github.com/danpele/IDA/assets/26813254/f3bdb60a-6254-444a-9108-ecb8211bb543)
 
 This is a repository for the quantlets created under IDA.
