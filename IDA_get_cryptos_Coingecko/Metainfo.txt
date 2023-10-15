@@ -1,1 +1,13 @@
+Name of Quantlet: IDA_get_cryptos_Coingecko
 
+Published in: IDA
+
+Description: 'Performes web scrapping for cryptos listed under Coingecko and saves the data as csv file.'
+
+Keywords: cryptocurrency, digital assets, scrapping, Coingecko
+ 
+Author: Daniel Traian Pele
+
+Submitted: 2023-10-15
+
+Example: The code can take a long time to run.
