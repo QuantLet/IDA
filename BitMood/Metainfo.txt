@@ -1,1 +1,12 @@
+Name of QuantLet : BitMood
+
+Published in : IDA
+
+Description : 'Repository of the paper BitMood: AI Analysis of Bitcoin Trends via Facebook Emotions.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 04 December 2023
 
